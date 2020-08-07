@@ -1,0 +1,15 @@
+C:\Users\Userer\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.exe
+C:\Users\Userer\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.deps.json
+C:\Users\Userer\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.runtimeconfig.json
+C:\Users\Userer\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.runtimeconfig.dev.json
+C:\Users\Userer\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.dll
+C:\Users\Userer\source\repos\ChatApp\ChatApp\bin\Debug\netcoreapp3.1\ChatApp.pdb
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.csprojAssemblyReference.cache
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.Form1.resources
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.csproj.GenerateResource.cache
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.AssemblyInfoInputs.cache
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.AssemblyInfo.cs
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.dll
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.pdb
+C:\Users\Userer\source\repos\ChatApp\ChatApp\obj\Debug\netcoreapp3.1\ChatApp.genruntimeconfig.cache
